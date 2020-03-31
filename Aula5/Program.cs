@@ -1,6 +1,7 @@
 ﻿using Biblioteca;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,7 +14,7 @@ namespace Aula5
         {
             bool isMenu = true;
 
-            string menu = "1 - Inserir\n2 - Consultar\n3 - Sair";
+            string menu = "1 - Inserir\n2 - Consultar\n3 - Gerar Arquivo\n4 - Sair";
 
             while (isMenu)
             {
@@ -31,6 +32,9 @@ namespace Aula5
                         ListAll();
                         break;
                     case 3:
+                        GerarArquivo();
+                        break;
+                    case 4:
                         isMenu = false;
                         break;
                     default:
@@ -64,6 +68,20 @@ namespace Aula5
                 Console.WriteLine(item);
                 Console.WriteLine("------------------------");
             }
+        }
+
+        private static void GerarArquivo()
+        {
+            string arq = "C:\\tmp\\arq01.txt";
+
+            using (StreamWriter x = File.CreateText(arq))
+            {
+                foreach (var item in new ClienteService().ListAll())
+                {
+                    x.WriteLine(item);
+                    x.WriteLine("------------------------");
+                }
+            };
         }
     }
 }
