@@ -72,7 +72,7 @@ namespace Aula5
 
         private static void GerarArquivo()
         {
-            string arq = "C:\\tmp\\arq01.txt";
+            string arq = @"C:\tmp\arq01.txt";
 
             using (StreamWriter x = File.CreateText(arq))
             {

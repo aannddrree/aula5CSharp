@@ -1,0 +1,13 @@
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\bin\Debug\FrontBiblioteca.exe.config
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\bin\Debug\FrontBiblioteca.exe
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\bin\Debug\FrontBiblioteca.pdb
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\obj\Debug\FrontBiblioteca.csprojAssemblyReference.cache
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\obj\Debug\FrontBiblioteca.Properties.Resources.resources
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\obj\Debug\FrontBiblioteca.csproj.GenerateResource.cache
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\obj\Debug\FrontBiblioteca.csproj.CoreCompileInputs.cache
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\obj\Debug\FrontBiblioteca.exe
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\obj\Debug\FrontBiblioteca.pdb
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\obj\Debug\FrontBiblioteca.FrmPrincipal.resources
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\bin\Debug\Biblioteca.dll
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\bin\Debug\Biblioteca.pdb
+C:\aulacsharp\aula5CSharp\FrontBiblioteca\obj\Debug\FrontBiblioteca.csproj.CopyComplete

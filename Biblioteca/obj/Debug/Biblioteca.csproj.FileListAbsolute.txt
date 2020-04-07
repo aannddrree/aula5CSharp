@@ -4,3 +4,9 @@ C:\Users\André\source\repos\Aula5\Biblioteca\obj\Debug\Biblioteca.csprojAssembl
 C:\Users\André\source\repos\Aula5\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
 C:\Users\André\source\repos\Aula5\Biblioteca\obj\Debug\Biblioteca.dll
 C:\Users\André\source\repos\Aula5\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\aulacsharp\aula5CSharp\Biblioteca\bin\Debug\Biblioteca.dll
+C:\aulacsharp\aula5CSharp\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\aulacsharp\aula5CSharp\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\aulacsharp\aula5CSharp\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\aulacsharp\aula5CSharp\Biblioteca\obj\Debug\Biblioteca.dll
+C:\aulacsharp\aula5CSharp\Biblioteca\obj\Debug\Biblioteca.pdb
